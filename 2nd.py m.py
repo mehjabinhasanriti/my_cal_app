@@ -1,0 +1,7 @@
+a=int(input ("Enter first value:"))
+b=int(input ("Enter second number"))
+print (f'the sum is ', a+b)
+print(f'the subtraction is',a-b)
+print(f'the multiplication is',a*b)
+print(f'the division is', a/b)
+print(f'the reminder is', a%b)
